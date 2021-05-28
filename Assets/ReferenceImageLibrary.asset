@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4687393458902225821
+  m_GuidHigh: 3219453894318192049
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4627726705514439043
+      m_GuidHigh: 8419942661995174288
+    m_SerializedTextureGuid:
+      m_GuidLow: 12995443849143502714
+      m_GuidHigh: 15780495734916565642
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 1
+    m_Texture: {fileID: 2800000, guid: f6bbc77a1753b4598aca44234395ffda, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5363119549706927535
+      m_GuidHigh: 12855604380699724731
+    m_SerializedTextureGuid:
+      m_GuidLow: 322714131988019246
+      m_GuidHigh: 7497572235767055739
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: unitylogowhiteonblack
+    m_Texture: {fileID: 2800000, guid: 1124f82e82cb047a7b05ba7e39ba0c68, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5531927347725611492
+      m_GuidHigh: 9423300550104559544
+    m_SerializedTextureGuid:
+      m_GuidLow: 11843831140059802830
+      m_GuidHigh: 15592148933460885819
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: yellow_white
+    m_Texture: {fileID: 2800000, guid: aaf96ccebdaba45d3b01ec1fd87062d8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5673981835312001055
+      m_GuidHigh: 2206003657131384221
+    m_SerializedTextureGuid:
+      m_GuidLow: 17652853923798896803
+      m_GuidHigh: 12819423393729992218
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: white
+    m_Texture: {fileID: 2800000, guid: 67e4d0a3891df4fb1ad69b08a8bde7b1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5584066633279117324
+      m_GuidHigh: 5569873168790300036
+    m_SerializedTextureGuid:
+      m_GuidLow: 14126279406510613568
+      m_GuidHigh: 8792096743482048105
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: green
+    m_Texture: {fileID: 2800000, guid: a6fb2440a046c40a69be1dda67cd037a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5180560170877028485
+      m_GuidHigh: 160396027427697821
+    m_SerializedTextureGuid:
+      m_GuidLow: 16472988860387626472
+      m_GuidHigh: 5945623211951526011
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: black
+    m_Texture: {fileID: 2800000, guid: 445f0de8d017e49b7b10b05ccf188352, type: 3}
